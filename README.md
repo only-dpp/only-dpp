@@ -1,5 +1,5 @@
 # Dopplin
-*Richard Yago
+*Richard Yago*
 
 ## Python Backend Developer
 
