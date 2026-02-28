@@ -1,4 +1,5 @@
 # Dopplin
+*Richard Yago
 
 ## Python Backend Developer
 
