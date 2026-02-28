@@ -5,6 +5,5 @@
 **Main stack:**
 - `Python`
 - `FastAPI`
-- `Async programming`
-- `Web scraping`
+- `Django`
 - `System automation`
