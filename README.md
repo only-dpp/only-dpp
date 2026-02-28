@@ -1,12 +1,12 @@
-## Dopplin
+# Dopplin
 
-Python Backend Developer
+##Python Backend Developer
 
-I build automation systems, APIs and structured backend applications.
+###I build automation systems, APIs and structured backend applications.
 
-Main stack:
-- Python
-- FastAPI
-- Async programming
-- Web scraping
-- System automation
+**Main stack:**
+- `Python`
+- `FastAPI`
+- `Async programming`
+- `Web scraping`
+- `System automation`
