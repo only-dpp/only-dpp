@@ -5,5 +5,5 @@
 **Main stack:**
 - `Python`
 - `FastAPI`
-- `Django framework`
+- `Jinja2`
 - `System automation`
