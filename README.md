@@ -10,8 +10,7 @@ Tenho experiência prática construindo projetos reais, explorando desde APIs at
   ```FastAPI``` 
   
   ```Jinja2```
-  
-  _Automação de sistemas_
+  _Em processo_
 
 ## Atualmente focado em
   Estruturação de projetos backend de forma mais profissional
