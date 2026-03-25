@@ -1,5 +1,5 @@
 ### Dopplin
-## Desenvolvedor Backend em Python
+## Desenvolvedor Backend - Python
 
 Sou focado no desenvolvimento de aplicações backend, com ênfase em performance, automação e criação de sistemas escaláveis.
 Tenho experiência prática construindo projetos reais, explorando desde APIs até automações que resolvem problemas do dia a dia.
