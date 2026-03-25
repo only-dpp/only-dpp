@@ -6,7 +6,9 @@ Tenho experiência prática construindo projetos reais, explorando desde APIs at
 
 ## Tecnologias principais
   ```Python```
+  
   ```FastAPI``` 
+  
   ```Jinja2```
   _Automação de sistemas_
 
