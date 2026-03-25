@@ -10,6 +10,7 @@ Tenho experiência prática construindo projetos reais, explorando desde APIs at
   ```FastAPI``` 
   
   ```Jinja2```
+  
   _Automação de sistemas_
 
 ## Atualmente focado em
