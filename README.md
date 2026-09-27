@@ -1,10 +1,12 @@
 <div align="center">
 
+<img src="./banner.png" alt="Richard Bento — Software Development">
+
 # Richard Bento
 
-### Software Developer · Backend · Python · Software Engineering
+### Desenvolvedor de Software · Backend · Python · Engenharia de Software
 
-Building systems. Understanding problems. Improving through practice.
+Construindo sistemas. Entendendo problemas. Evoluindo através da prática.
 
 [LinkedIn](https://www.linkedin.com/in/richard-bento)
 
@@ -12,78 +14,84 @@ Building systems. Understanding problems. Improving through practice.
 
 ---
 
-## About
+## Sobre mim
 
-I am a **Software Development student** focused on building a strong foundation in programming, backend development and software engineering.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, construindo minha formação em desenvolvimento de software através de estudos, projetos individuais e desenvolvimento colaborativo.
 
-My development process starts before writing code.
+Meu foco está principalmente em **backend, Python, Engenharia de Software e segurança de aplicações**.
 
-I am interested in understanding the **problem, domain, requirements and constraints** behind a system before deciding how it should be implemented.
+Para mim, desenvolvimento não começa no código.
 
-My current focus is on building practical experience through individual and collaborative projects, gradually moving from isolated exercises toward complete software systems.
+Antes de implementar, procuro entender:
 
 ```text
-Problem
-  ↓
-Requirements
-  ↓
-Modeling
-  ↓
-Design
-  ↓
-Implementation
-  ↓
-Testing
-  ↓
-Evolution
+Problema
+   ↓
+Requisitos
+   ↓
+Domínio
+   ↓
+Modelagem
+   ↓
+Arquitetura
+   ↓
+Implementação
+   ↓
+Testes
+   ↓
+Evolução
 ```
 
-I use projects as a way to study not only programming, but the engineering process surrounding it.
+Meu objetivo é desenvolver a capacidade de transformar problemas e necessidades em sistemas **compreensíveis, estruturados e sustentáveis**.
 
 ---
 
-## Engineering Focus
+## Engenharia de Software
 
-### Software Engineering
+Tenho direcionado parte significativa dos meus estudos para compreender o desenvolvimento de software como um processo completo.
 
-I am developing practical experience with:
+Atualmente pratico:
 
-* Requirements analysis
-* Functional and non-functional requirements
-* Use cases
-* UML and system modeling
-* Domain and data modeling
-* Business rules
-* Software architecture
-* Documentation
-* Version control
-* Collaborative development
+* Levantamento e análise de requisitos
+* Requisitos funcionais e não funcionais
+* Casos de uso
+* UML e modelagem de sistemas
+* Modelagem de dados
+* Regras de negócio
+* Arquitetura e organização de aplicações
+* Documentação técnica
+* Versionamento
+* Desenvolvimento colaborativo
 
-The objective is to understand how a system should be structured before implementation becomes the main concern.
+A ideia é aprender a tomar decisões técnicas **antes, durante e depois da implementação**, e não apenas fazer uma funcionalidade funcionar.
 
-### Backend Development
+---
 
-My primary programming language is **Python**, with a focus on building the server-side logic behind applications.
+## Backend
 
-I am particularly interested in:
+**Python** é atualmente minha principal linguagem de desenvolvimento.
 
-* Business logic
-* REST APIs
-* Authentication and authorization
-* Data persistence
-* Integrations
-* Application structure
-* Error handling
-* Validation
-* Testing
+Tenho interesse especialmente na construção da parte responsável por transformar regras de negócio em comportamento de software:
 
-### Application Security
+* APIs
+* Regras de negócio
+* Autenticação e autorização
+* Persistência de dados
+* Integrações
+* Validação
+* Tratamento de erros
+* Testes
+* Organização e manutenção de aplicações
 
-Security is another area I am actively studying.
+Meu objetivo é entender o backend não apenas como uma camada que "recebe requisições", mas como uma parte central da implementação das regras e responsabilidades de um sistema.
 
-My current approach is focused on understanding how applications actually work before relying on security tools.
+---
 
-Areas of study include:
+## Segurança de Aplicações
+
+Também estudo **segurança de aplicações web**, buscando compreender primeiro o funcionamento dos sistemas e depois as ferramentas utilizadas para analisá-los.
+
+Atualmente, meus estudos passam por:
 
 ```text
 HTTP
@@ -99,189 +107,202 @@ Input Validation
 Web Application Architecture
 ```
 
-The goal is to understand **why vulnerabilities exist, how they affect a system, and how they can be prevented during development.**
+O objetivo é compreender:
+
+> **por que uma vulnerabilidade existe, como ela afeta o sistema e como pode ser evitada durante o desenvolvimento.**
+
+Tenho preferência por construir uma base conceitual antes de depender de ferramentas automatizadas.
 
 ---
 
-## Projects
+## Projetos
 
-I use this profile to document my progression from learning concepts to applying them in software.
+Este GitHub funciona como um registro da minha evolução prática.
 
-### Real-world oriented projects
+Não quero que meus repositórios sejam apenas exercícios ou demonstrações isoladas de sintaxe. Conforme os projetos aumentam de complexidade, procuro trabalhar também aspectos de engenharia.
 
-Projects built around concrete problems, requirements and system behavior.
+### Projetos de sistemas
 
-These projects are where I practice the complete development cycle:
+Projetos construídos a partir de problemas, requisitos e regras de negócio.
 
 ```text
-Requirements
-    ↓
-Analysis
-    ↓
-Modeling
-    ↓
-Architecture
-    ↓
-Development
-    ↓
-Validation
-    ↓
-Documentation
+Problema
+   ↓
+Requisitos
+   ↓
+Análise
+   ↓
+Modelagem
+   ↓
+Arquitetura
+   ↓
+Desenvolvimento
+   ↓
+Validação
+   ↓
+Documentação
 ```
 
-### Collaborative projects
+### Projetos colaborativos
 
-I am also working with other developers to gain experience with software development as a team.
+Também participo de projetos desenvolvidos em equipe para adquirir experiência com o processo de desenvolvimento colaborativo.
 
-This includes practicing:
+Entre os aspectos praticados:
 
-* Git workflows
-* Repository organization
-* Task management
-* Branching strategies
-* Code reviews
-* Technical communication
-* Documentation
-* Responsibility boundaries
+* Git e controle de versão
+* Organização de repositórios
+* Divisão de tarefas
+* Branches
+* Pull Requests
+* Revisão de código
+* Documentação
+* Comunicação técnica
+* Definição de responsabilidades
 
-### Study & laboratory projects
+### Laboratórios e estudos
 
-Smaller repositories are used to experiment with concepts, test ideas and strengthen fundamentals.
+Projetos menores são utilizados para experimentar conceitos, testar abordagens e fortalecer fundamentos de programação, sistemas e segurança.
 
-These projects may be simpler, but they serve a specific purpose: **turning theory into implementation.**
+A finalidade desses projetos é simples:
+
+**transformar conhecimento teórico em capacidade prática.**
 
 ---
 
-## How I build
+## Como desenvolvo
 
-I try to keep a clear distinction between **making something work** and **building something properly**.
+Procuro diferenciar duas coisas:
 
-For larger projects, I aim to answer questions such as:
+> **fazer algo funcionar**
+
+e
+
+> **construir algo que possa continuar funcionando e evoluindo.**
+
+Em projetos maiores, algumas das perguntas que considero importantes são:
 
 ```text
-What problem are we solving?
+Qual problema estamos resolvendo?
 
-What are the actual requirements?
+Quais são os requisitos?
 
-What are the system's responsibilities?
+Quais são as regras de negócio?
 
-What are the important business rules?
+Quais responsabilidades pertencem ao sistema?
 
-How should the components interact?
+Como os componentes devem se relacionar?
 
-What data does the system need?
+Quais dados precisam ser armazenados?
 
-What can fail?
+O que pode falhar?
 
-How should the system evolve?
+Como o sistema poderá evoluir?
 ```
 
-Only after these questions become sufficiently clear does implementation become the main focus.
+Não existe uma resposta universal para essas perguntas.
 
-This mindset is one of the main things I am developing throughout my studies and projects.
-
----
-
-## Technical Interests
-
-I prefer demonstrating technologies through projects instead of treating a technology list as proof of proficiency.
-
-My current technical interests are concentrated around:
-
-| Area          | Focus                                                   |
-| :------------ | :------------------------------------------------------ |
-| Programming   | Python, algorithms and problem solving                  |
-| Backend       | APIs, business logic and application architecture       |
-| Web           | HTTP, authentication, sessions and application behavior |
-| Data          | Relational databases and data modeling                  |
-| Engineering   | Requirements, UML, architecture and testing             |
-| Security      | Web application security and secure development         |
-| Systems       | Linux, networking and infrastructure fundamentals       |
-| Collaboration | Git, documentation and team development                 |
+O objetivo é desenvolver o hábito de **questionar as decisões técnicas antes de transformá-las em código**.
 
 ---
 
-## Currently Learning
+## Áreas de interesse
 
-My current studies are focused on strengthening the fundamentals that support larger systems.
+| Área            | Foco atual                                                |
+| :-------------- | :-------------------------------------------------------- |
+| **Programação** | Python, algoritmos e resolução de problemas               |
+| **Backend**     | APIs, regras de negócio e arquitetura de aplicações       |
+| **Web**         | HTTP, autenticação, sessões e comportamento de aplicações |
+| **Dados**       | Bancos relacionais, persistência e modelagem              |
+| **Engenharia**  | Requisitos, UML, arquitetura e testes                     |
+| **Segurança**   | Segurança de aplicações web e desenvolvimento seguro      |
+| **Sistemas**    | Linux, redes e fundamentos de infraestrutura              |
+| **Colaboração** | Git, documentação e desenvolvimento em equipe             |
+
+---
+
+## Atualmente estudando
+
+Meu foco atual está na construção dos fundamentos necessários para trabalhar com sistemas cada vez mais complexos.
 
 ```text
-Algorithms & Logic
-        │
-        ├── Problem solving
-        ├── Computational thinking
-        └── Data structures
+ALGORITMOS E LÓGICA
+│
+├── Resolução de problemas
+├── Raciocínio computacional
+├── Estruturas de dados
+└── Fundamentos de programação
+```
 
-Software Engineering
-        │
-        ├── Requirements
-        ├── Modeling
-        ├── Architecture
-        └── Development processes
+```text
+ENGENHARIA DE SOFTWARE
+│
+├── Requisitos
+├── Modelagem
+├── Arquitetura
+└── Processos de desenvolvimento
+```
 
-Backend Development
-        │
-        ├── APIs
-        ├── Databases
-        ├── Authentication
-        └── Application design
+```text
+BACKEND
+│
+├── APIs
+├── Bancos de dados
+├── Autenticação
+└── Arquitetura de aplicações
+```
 
-Application Security
-        │
-        ├── Web fundamentals
-        ├── Access control
-        ├── Vulnerabilities
-        └── Secure development
+```text
+SEGURANÇA
+│
+├── Fundamentos Web
+├── Controle de acesso
+├── Vulnerabilidades
+└── Desenvolvimento seguro
 ```
 
 ---
 
-## Professional Direction
+## Direção profissional
 
-I am currently seeking my first professional opportunity in **software development**.
+Estou buscando minha primeira oportunidade profissional na área de **desenvolvimento de software**.
 
-My main interests are backend development, software engineering and systems-oriented work.
+Minha principal direção atualmente está em **backend e desenvolvimento de sistemas**, sem perder o interesse por Engenharia de Software e segurança.
 
-I am looking for environments where I can contribute to real software while continuing to develop my technical foundation through:
-
-* practical development;
-* collaboration;
-* code review;
-* technical feedback;
-* problem solving;
-* and continuous learning.
+Procuro uma oportunidade na qual possa participar de problemas reais de desenvolvimento, receber feedback técnico, trabalhar em equipe e transformar conhecimento acadêmico em experiência profissional.
 
 ---
 
-## Education
+## Formação
 
 **Análise e Desenvolvimento de Sistemas**
 
-Currently studying and complementing academic learning with independent projects, collaborative development and practical experimentation.
+Atualmente cursando e complementando a formação acadêmica com projetos próprios, desenvolvimento colaborativo e estudos independentes.
 
 ---
 
-## Principles
+## Princípios
 
 ```text
-Understand before implementing.
+Entender antes de implementar.
 
-Prefer simple solutions when they are sufficient.
+Preferir soluções simples quando forem suficientes.
 
-Write code that other developers can understand.
+Escrever código que outras pessoas consigam entender.
 
-Treat documentation as part of the software.
+Tratar documentação como parte do desenvolvimento.
 
-Use projects to turn theory into experience.
+Usar projetos para transformar teoria em experiência.
 
-Learn the fundamentals before depending on tools.
+Construir fundamentos antes de depender de ferramentas.
+
+Questionar decisões técnicas antes de transformá-las em código.
 ```
 
 ---
 
 <div align="center">
 
-### Building software, one system at a time.
+### Construindo software, um sistema de cada vez.
 
 [LinkedIn](https://www.linkedin.com/in/richard-bento)
 
