@@ -1,96 +1,170 @@
 # Richard Bento
 
-### Software Developer | Python
+**Software Developer in training · Backend · Python · Software Engineering**
 
-Desenvolvedor em formação, com foco em **desenvolvimento de software, backend e Engenharia de Software**.
+I build software with a focus on understanding the problem before implementing the solution.
 
-Meu foco não está apenas em implementar funcionalidades, mas em compreender o problema antes do código: **levantar requisitos, modelar soluções, definir responsabilidades, estruturar sistemas e então implementar**.
-
-Atualmente, utilizo **Python** como principal linguagem para desenvolver projetos e estudar conceitos de desenvolvimento de software, aplicações web, APIs, segurança e processamento de dados.
+My current development path is centered around **backend development, software engineering, system design and application security**, using practical projects to turn concepts into working systems.
 
 ---
 
-## Sobre
+## Profile
 
-Estou cursando **Análise e Desenvolvimento de Sistemas** e construindo experiência através de projetos individuais e colaborativos.
+```text
+Focus        Backend Development
+Language     Python
+Approach     Software Engineering
+Interests    Systems · APIs · Security · Architecture
+Currently    Building projects and studying Computer Systems
+```
 
-Tenho particular interesse pela parte que existe entre o problema e o código: entender o domínio, transformar necessidades em requisitos, definir uma solução coerente e construir um sistema que possa ser mantido e evoluído.
+I am currently pursuing a degree in **Systems Analysis and Development**, while building practical experience through individual and collaborative projects.
 
-Nos meus projetos, procuro praticar:
+My goal is not simply to write code that works.
 
-* levantamento e análise de requisitos;
-* modelagem de sistemas;
-* definição de regras de negócio;
-* organização e arquitetura de aplicações;
-* desenvolvimento backend;
-* desenvolvimento e integração de APIs;
-* persistência e manipulação de dados;
-* autenticação, autorização e segurança;
-* versionamento e colaboração com Git;
-* testes e documentação.
+I want to understand **why the system exists, what it needs to solve, how its components should interact, and how it can evolve without becoming difficult to maintain.**
 
 ---
 
-## Atualmente
+## Engineering mindset
 
-Estou trabalhando em projetos que me permitem sair de exercícios isolados e experimentar um processo de desenvolvimento mais próximo de um ambiente profissional.
+I approach software development as a process rather than simply a coding task.
 
-Entre os principais focos estão:
+```text
+Problem
+   ↓
+Requirements
+   ↓
+Domain understanding
+   ↓
+Modeling
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Iteration
+```
 
-**Desenvolvimento de sistemas**
+This means that my projects often involve more than source code.
 
-Construção de aplicações completas a partir de requisitos, passando por modelagem, implementação e evolução do sistema.
-
-**Backend**
-
-Desenvolvimento de regras de negócio, APIs, autenticação, persistência e integração entre componentes.
-
-**Engenharia de Software**
-
-Aplicação prática de requisitos, UML, modelagem, arquitetura, documentação e organização do desenvolvimento.
-
-**Segurança**
-
-Estudo dos fundamentos de segurança de aplicações web, buscando compreender vulnerabilidades tanto pelo funcionamento do sistema quanto pela perspectiva de quem tenta explorá-las.
-
----
-
-## Projetos
-
-Os repositórios deste perfil são utilizados principalmente para **construir experiência prática e documentar minha evolução como desenvolvedor**.
-
-Procuro dar aos projetos uma estrutura que vá além do código, documentando quando relevante:
-
-* problema;
-* requisitos;
-* decisões técnicas;
-* modelagem;
-* arquitetura;
-* implementação;
-* testes;
-* limitações;
-* próximos passos.
-
-Projetos maiores também são desenvolvidos de forma colaborativa, utilizando controle de versão e organização de tarefas.
+I practice requirements analysis, system modeling, business rules, application structure, version control, documentation and collaborative development alongside implementation.
 
 ---
 
-## Direção profissional
+## What I'm working on
 
-Busco minha primeira oportunidade profissional na área de desenvolvimento de software, inicialmente com foco em **backend e desenvolvimento de sistemas**.
+### Backend Development
 
-Quero continuar evoluindo principalmente em:
+Building applications around business rules, APIs, authentication, persistence and integrations.
 
-* fundamentos de programação;
-* Engenharia de Software;
-* arquitetura de sistemas;
-* bancos de dados;
-* desenvolvimento backend;
-* segurança de aplicações;
-* desenvolvimento colaborativo.
+### Software Engineering
+
+Practicing requirements engineering, UML, use cases, domain modeling, architecture and project organization.
+
+### Application Security
+
+Studying how web applications work from both the development and security perspectives, with particular interest in authentication, authorization, sessions, input handling and common web vulnerabilities.
+
+### Collaborative Development
+
+Working on projects with other developers to practice Git workflows, task organization, code ownership, documentation and technical decision-making.
 
 ---
 
-## Contato
+## Selected Projects
 
-* [LinkedIn](https://www.linkedin.com/in/richard-bento)
+### Software Systems
+
+Projects focused on taking a problem from requirements to implementation.
+
+**Typical workflow**
+
+`Requirements → Modeling → Architecture → Development → Testing`
+
+These projects are where I currently focus most of my engineering practice.
+
+---
+
+### Backend & Web
+
+Applications built to practice:
+
+* business logic
+* REST APIs
+* authentication and authorization
+* data persistence
+* server-side rendering
+* integrations
+* application security
+
+---
+
+### Security Research & Labs
+
+Small projects, experiments and notes focused on understanding:
+
+* HTTP
+* authentication
+* sessions and cookies
+* access control
+* common web vulnerabilities
+* Linux
+* networking
+* security fundamentals
+
+---
+
+## Technical Interests
+
+Rather than treating technologies as isolated tools, I am interested in understanding the concepts behind them.
+
+| Area        | Focus                                               |
+| ----------- | --------------------------------------------------- |
+| Programming | Python, algorithms and problem solving              |
+| Backend     | APIs, business logic and application architecture   |
+| Web         | HTTP, authentication, sessions and security         |
+| Data        | Relational databases, persistence and data modeling |
+| Engineering | Requirements, UML, architecture and testing         |
+| Systems     | Linux, networking and infrastructure fundamentals   |
+| Security    | Web application security and vulnerability analysis |
+
+---
+
+## Current Direction
+
+I am currently looking for opportunities to gain professional experience in **software development**, particularly in backend and systems-oriented roles.
+
+My long-term goal is to become a developer capable of working across the full engineering process:
+
+```text
+Understand the problem
+        ↓
+Design the solution
+        ↓
+Build the system
+        ↓
+Test and secure it
+        ↓
+Maintain and evolve it
+```
+
+---
+
+## Education
+
+**Análise e Desenvolvimento de Sistemas**
+
+Currently studying and complementing academic learning with independent projects and practical experimentation.
+
+---
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/richard-bento)
+
+---
+
+<sub>Building software, studying systems, and documenting the process.</sub>
