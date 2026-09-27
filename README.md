@@ -1,77 +1,96 @@
-# Olá, eu sou o Dopplin 👋
+# Richard Bento
 
-## Desenvolvedor Backend Python | APIs, Dados e Automação
+### Software Developer | Python
 
-Sou um desenvolvedor backend com foco em **Python**, **APIs**, **automação**, **web scraping** e **processamento de dados**.
+Desenvolvedor em formação, com foco em **desenvolvimento de software, backend e Engenharia de Software**.
 
-Tenho interesse em construir sistemas úteis, resolver problemas reais com software e evoluir dentro do ecossistema backend, especialmente em áreas que envolvem **integrações**, **coleta de dados**, **infraestrutura lógica** e **ferramentas voltadas para produtividade**.
+Meu foco não está apenas em implementar funcionalidades, mas em compreender o problema antes do código: **levantar requisitos, modelar soluções, definir responsabilidades, estruturar sistemas e então implementar**.
 
-Atualmente, concentro meus estudos e projetos em soluções práticas que me ajudem a evoluir como programador e também a entender melhor como sistemas reais são pensados, estruturados e mantidos.
-
----
-
-## Tecnologias e Ferramentas
-
-### Backend & Desenvolvimento
-- Python
-- FastAPI
-- Jinja2
-- HTMX
-- JavaScript
-
-### Dados, Automação & Scraping
-- Web scraping com `requests` e `BeautifulSoup`
-- Coleta, transformação e estruturação de dados
-- Automação de tarefas e processos
-- Manipulação de JSON e CSV
-
-### APIs & Integrações
-- Desenvolvimento de APIs REST
-- Consumo de APIs externas
-- Integração entre serviços e sistemas
-
-### Banco de Dados
-- PostgreSQL
-- SQLite
-
-### Ferramentas & Ambiente
-- Git e GitHub
-- Docker
-- Linux
-- Uvicorn
-- Ambientes virtuais com `venv`
+Atualmente, utilizo **Python** como principal linguagem para desenvolver projetos e estudar conceitos de desenvolvimento de software, aplicações web, APIs, segurança e processamento de dados.
 
 ---
 
-## Sobre mim
+## Sobre
 
-Atualmente, venho construindo projetos próprios com foco em backend, automação e dados, sempre buscando evoluir não só na escrita de código, mas também em:
+Estou cursando **Análise e Desenvolvimento de Sistemas** e construindo experiência através de projetos individuais e colaborativos.
 
-- organização de aplicações
-- estruturação de projetos
-- clareza de código
-- resolução de problemas reais
-- pensamento mais profissional sobre desenvolvimento
+Tenho particular interesse pela parte que existe entre o problema e o código: entender o domínio, transformar necessidades em requisitos, definir uma solução coerente e construir um sistema que possa ser mantido e evoluído.
 
-Tenho interesse especial em oportunidades que envolvam:
+Nos meus projetos, procuro praticar:
 
-- desenvolvimento backend
-- automação
-- integrações
-- scraping e coleta de dados
-- ferramentas internas
-- produtividade para desenvolvedores
-- sistemas úteis e bem estruturados
+* levantamento e análise de requisitos;
+* modelagem de sistemas;
+* definição de regras de negócio;
+* organização e arquitetura de aplicações;
+* desenvolvimento backend;
+* desenvolvimento e integração de APIs;
+* persistência e manipulação de dados;
+* autenticação, autorização e segurança;
+* versionamento e colaboração com Git;
+* testes e documentação.
 
 ---
 
-## Idiomas
+## Atualmente
 
-- Português: Nativo
-- Inglês: Básico / técnico
+Estou trabalhando em projetos que me permitem sair de exercícios isolados e experimentar um processo de desenvolvimento mais próximo de um ambiente profissional.
+
+Entre os principais focos estão:
+
+**Desenvolvimento de sistemas**
+
+Construção de aplicações completas a partir de requisitos, passando por modelagem, implementação e evolução do sistema.
+
+**Backend**
+
+Desenvolvimento de regras de negócio, APIs, autenticação, persistência e integração entre componentes.
+
+**Engenharia de Software**
+
+Aplicação prática de requisitos, UML, modelagem, arquitetura, documentação e organização do desenvolvimento.
+
+**Segurança**
+
+Estudo dos fundamentos de segurança de aplicações web, buscando compreender vulnerabilidades tanto pelo funcionamento do sistema quanto pela perspectiva de quem tenta explorá-las.
+
+---
+
+## Projetos
+
+Os repositórios deste perfil são utilizados principalmente para **construir experiência prática e documentar minha evolução como desenvolvedor**.
+
+Procuro dar aos projetos uma estrutura que vá além do código, documentando quando relevante:
+
+* problema;
+* requisitos;
+* decisões técnicas;
+* modelagem;
+* arquitetura;
+* implementação;
+* testes;
+* limitações;
+* próximos passos.
+
+Projetos maiores também são desenvolvidos de forma colaborativa, utilizando controle de versão e organização de tarefas.
+
+---
+
+## Direção profissional
+
+Busco minha primeira oportunidade profissional na área de desenvolvimento de software, inicialmente com foco em **backend e desenvolvimento de sistemas**.
+
+Quero continuar evoluindo principalmente em:
+
+* fundamentos de programação;
+* Engenharia de Software;
+* arquitetura de sistemas;
+* bancos de dados;
+* desenvolvimento backend;
+* segurança de aplicações;
+* desenvolvimento colaborativo.
 
 ---
 
 ## Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/richard-bento)
+* [LinkedIn](https://www.linkedin.com/in/richard-bento)
